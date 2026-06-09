@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Bara Thiam 👋
+# Salut ! Moi c'est Bara Thiam 
 
 Futur diplômé en **Techniques de l'informatique - Programmation** au Collège LaSalle (Montréal). Passionné par le développement de solutions web et logicielles robustes, j'aime concevoir des architectures propres (MVC, POO) et créer des expériences utilisateurs fluides et responsives.
 
@@ -18,7 +18,7 @@ Futur diplômé en **Techniques de l'informatique - Programmation** au Collège 
 
 ---
 
-### 🚀 Projets Clés (Disponibles ci-dessous)
+###  Projets Clés (Disponibles ci-dessous)
 
 *   **[CryptoTrade](https://github.com)** : Simulation d'échange crypto complète (PHP, MVC, Stripe).
 *   **[Portfolio développeur](https://github.com)** : Ma vitrine web moderne (Next.js, TypeScript, Tailwind).
@@ -27,15 +27,15 @@ Futur diplômé en **Techniques de l'informatique - Programmation** au Collège 
 
 ---
 
-### 📈 Mon Parcours en Bref
+###  Mon Parcours en Bref
 
-*   🎓 **DEC en Informatique** – Collège LaSalle (Fin d'études en 2026)
-*   💼 **Stagiaire Développeur Web** – Agence Nexlab Inc. (Refonte de site, intégration de 4 outils web, SEO)
+*    **DEC en Informatique** – Collège LaSalle (Fin d'études en 2026)
+*    **Stagiaire Développeur Web** – Agence Nexlab Inc. (Refonte de site, intégration de 4 outils web, SEO)
 
 ---
 
-### 📬 Me Contacter
+###  Me Contacter
 
-*   💼 [Mon Profil LinkedIn](https://linkedin.com) *(N'hésite pas à m'ajouter !)*
-*   📧 [barathiam4388@gmail.com](mailto:barathiam4388@gmail.com)
-*   📍 Montréal, QC
+*    [Mon Profil LinkedIn](https://linkedin.com) *(N'hésite pas à m'ajouter !)*
+*    [barathiam4388@gmail.com](mailto:barathiam4388@gmail.com)
+*    Montréal, QC
