@@ -41,7 +41,7 @@ Je suis motivé, sérieux, autonome et prêt à contribuer rapidement à une éq
 
 ---
 
-## 💼 Expérience récente
+##  Expérience récente
 
 ### Développeur Web Junior – Stagiaire  
 **NexLab – Montréal, QC**  
