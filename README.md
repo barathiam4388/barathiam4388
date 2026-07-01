@@ -1,17 +1,16 @@
 # Salut, moi c’est Bara Thiam 👋
 
-🎓 Diplômé en **Techniques de l’informatique – Programmation** au Collège LaSalle à Montréal.  
-💻 Développeur web junior passionné par la création de sites web modernes, d’applications simples, propres et utiles.  
-🚀 Expérience concrète en **refonte de site web, intégration front-end, correction de bugs, SEO, responsive design et outils web interactifs**.  
+ Diplômé en **Techniques de l’informatique – Programmation** au Collège LaSalle à Montréal.  
+ Développeur web junior passionné par la création de sites web modernes, d’applications simples, propres et utiles.  
+ Expérience concrète en **refonte de site web, intégration front-end, correction de bugs, SEO, responsive design et outils web interactifs**.  
 
-📍 Montréal, Québec  
-📩 Email : [barathiam4388@gmail.com](mailto:barathiam4388@gmail.com)  
-🔗 LinkedIn : [Ajouter ton lien LinkedIn ici]  
-🌐 Portfolio : [Ajouter ton portfolio ici]
+ Montréal, Québec   Email : [barathiam4388@gmail.com](mailto:barathiam4388@gmail.com)  
+ LinkedIn : [Ajouter ton lien LinkedIn ici]  
+ Portfolio : [Ajouter ton portfolio ici]
 
 ---
 
-## 👨🏾‍💻 À propos de moi
+##  À propos de moi
 
 Je suis un développeur web junior basé à Montréal, récemment diplômé en programmation.  
 Durant mon stage chez **NexLab**, j’ai participé à la refonte du site web de l’agence, à l’intégration de pages, à l’amélioration responsive, au SEO, à la gestion de contenu et à la création d’outils web utiles.
@@ -58,9 +57,9 @@ Je suis motivé, sérieux, autonome et prêt à contribuer rapidement à une éq
 
 ---
 
-## 🚀 Projets principaux
+##  Projets principaux
 
-### 🌐 Portfolio Développeur Web
+###  Portfolio Développeur Web
 Application portfolio développée avec **Next.js, TypeScript et Tailwind CSS** pour présenter mes projets, compétences et expériences.
 
 **Technologies :** Next.js, TypeScript, Tailwind CSS  
