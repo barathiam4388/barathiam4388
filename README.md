@@ -5,8 +5,8 @@
  Expérience concrète en **refonte de site web, intégration front-end, correction de bugs, SEO, responsive design et outils web interactifs**.  
 
  Montréal, Québec   Email : [barathiam4388@gmail.com](mailto:barathiam4388@gmail.com)  
- LinkedIn : [Ajouter ton lien LinkedIn ici]  
- Portfolio : [Ajouter ton portfolio ici]
+ LinkedIn : https://www.linkedin.com/in/bara-thiam-96338b299/
+ Portfolio : https://github.com/barathiam4388?tab=repositories
 
 ---
 
