@@ -63,7 +63,7 @@ Je suis motivé, sérieux, autonome et prêt à contribuer rapidement à une éq
 Application portfolio développée avec **Next.js, TypeScript et Tailwind CSS** pour présenter mes projets, compétences et expériences.
 
 **Technologies :** Next.js, TypeScript, Tailwind CSS  
-🔗 Repository : [Voir le projet](https://github.com/barathiam4388/bara-portfolio)
+🔗 Repository : [Voir le projet](https://github.com/barathiam4388/tt4-1311-be)
 
 ---
 
