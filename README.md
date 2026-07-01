@@ -67,15 +67,15 @@ Application portfolio développée avec **Next.js, TypeScript et Tailwind CSS** 
 
 ---
 
-### 🏥 QueueCare
+###  QueueCare
 Application console développée en **C#** pour gérer des rendez-vous, des clients, des files d’attente et des rapports journaliers.
 
 **Technologies :** C#, .NET, JSON  
-🔗 Repository : [Voir le projet](https://github.com/barathiam4388/QueueCare)
+ Repository : [Voir le projet](https://github.com/barathiam4388/QueueCare)
 
 ---
 
-### 🌦️ WeatherApp
+###  WeatherApp
 Application météo développée avec **.NET MAUI**, utilisant une API externe pour afficher les données météo selon une ville.
 
 **Technologies :** C#, .NET MAUI, API REST  
@@ -83,7 +83,7 @@ Application météo développée avec **.NET MAUI**, utilisant une API externe p
 
 ---
 
-### 📚 BookManager
+###  BookManager
 Application de gestion de livres permettant d’organiser, consulter et gérer des informations liées à une bibliothèque numérique.
 
 **Technologies :** C#, Windows Forms  
@@ -91,7 +91,7 @@ Application de gestion de livres permettant d’organiser, consulter et gérer d
 
 ---
 
-### 🐍 Application Web Flask
+###  Application Web Flask
 Application web développée avec **Python et Flask**, incluant routes, formulaires, affichage dynamique et structure back-end simple.
 
 **Technologies :** Python, Flask, HTML, CSS  
