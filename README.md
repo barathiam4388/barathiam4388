@@ -1,4 +1,4 @@
-# Salut, moi c’est Bara Thiam 👋
+# Salut, moi c’est Bara Thiam 
 
  Diplômé en **Techniques de l’informatique – Programmation** au Collège LaSalle à Montréal.  
  Développeur web junior passionné par la création de sites web modernes, d’applications simples, propres et utiles.  
